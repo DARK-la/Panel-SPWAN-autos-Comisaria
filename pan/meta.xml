@@ -1,0 +1,6 @@
+<meta>
+    <info author="Dark" version="1.0." name="Panel Vehiculos" description="Crea Vehiculos para el equipo policia" type="script" />
+
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+♠</meta>
